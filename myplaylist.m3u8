@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="id1" tvg-name="Loveyapa" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Loveyapa",Loveyapa.2025
+https://pub-c0a0ef4afed74d31b975ce54eb2bd4ad.r2.dev/Loveyapa.2025.4K-2160p.SDR.JHS.WEB-DL.Hindi.DDPA5.1.HEVC.x265-HDHub4u.Ms.mkv
+
+#EXTINF:-1 tvg-id="id2" tvg-name="Addicted S01E01" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Addicted",Addicted S01E01
+https://example.com/Addicted.S01E01.mkv
+#EXTINF:-1 tvg-id="id3" tvg-name="Addicted S01E02" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Addicted",Addicted S01E02
+https://example.com/Addicted.S01E02.mkv
+#EXTINF:-1 tvg-id="id4" tvg-name="Addicted S01E03" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Addicted",Addicted S01E03
+https://example.com/Addicted.S01E03.mkv
+#EXTINF:-1 tvg-id="id5" tvg-name="Addicted S01E04" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Addicted",Addicted S01E04
+https://example.com/Addicted.S01E04.mkv
+#EXTINF:-1 tvg-id="id6" tvg-name="Addicted S01E05" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Addicted",Addicted S01E05
+https://example.com/Addicted.S01E05.mkv
+#EXTINF:-1 tvg-id="id7" tvg-name="Addicted S01E06" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Addicted",Addicted S01E06
+https://example.com/Addicted.S01E06.mkv
+
+#EXTINF:-1 tvg-id="id8" tvg-name="Sikandar" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Sikandar",Sikandar.2025
+https://pub-c0a0ef4afed74d31b975ce54eb2bd4ad.r2.dev/Sikandar.2025.HQ.1080p.PRE-HD.Hindi.DD2.0.HC-ESub.x264-HDHub4u.Ms.mkv
+
+#EXTINF:-1 tvg-id="id9" tvg-name="Chhaava" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Chhaava",Chhaava.2025
+https://pub-c0a0ef4afed74d31b975ce54eb2bd4ad.r2.dev/Chhaava.2025.4K.SDR.Hindi.WEB-DL.DD5.1.HC-ESub.x264-HDHub4u.Tv.mkv
+
+#EXTINF:-1 tvg-id="id10" tvg-name="Apartment 7B" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Apartment 7B",Apartment 7B
+https://worker-billowing-bar-7a91.lamed32605.workers.dev/cd8203c70529892d9a50088d894cdc51fea606e780a78b522664233c4197908908f5a1412b53e3241e58b50f3850021f4d01678dda62cc0591b44ebc1b684d7c3307533241fee4fbc2e42a69d9c30c13c3fc6d3d09c4f4c6b44a9c7454825fa2f5078f8b72eaeb6ae6163fe5b2200d56956d18fead0e6806c445cbc1386e5b7c29a4913681ff9ba732a8556ed40b6cb75f26a7ee0700b820c32af825b6de459d527e52bf2e456edf863ef79ba5ac230a::2a4102a8ea3fa8cc7deb8733d6e6ed36/Apartment%207A%20(2024)%202160p%20AMZN%20WEBDL%20SDR%20[Hindi%20AMZN%20DDP%205.1%20%20English%20DDP%205.1%20Atmos]%20HEVC%20(KitsuneIonicboy).mkv
+
+#EXTINF:-1 tvg-id="id11" tvg-name="Novocaine" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Novocaine"Novocaine.2025
+https://first.xyzcdn.cloud/0738b668abaa1336fa12fd76fbb29dd0a0e543921b595aa535bc757b362d08f3ce111b8615afe78be2e1cf183776a08e9a97406a9d473b933a50450543e5dbaa3c2bd921b47606fbbf2d452bd4530ee1700aed2ccf901c91fe8707e3db6b473740c0e43e7f16fbd805d5caf0c095329caae7a3539e02bd321da1d3681a567b954bd898e045a70c4d7f461828c2c6d830563acf2b20bcc16338b3ea46e01d00a729db7daaa927fb2b4dcad3193dd631a8::877da4bdfebc978b59f26a71c9236377/Novocaine.2025.4K-2160p.SDR.AMZN.WEB-DL.DDP5.1.Atmos.H.265%20-%20moviesdrives.com.mkv
