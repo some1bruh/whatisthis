@@ -2,17 +2,17 @@
 #EXTINF:-1 tvg-id="id1" tvg-name="Loveyapa" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Loveyapa",Loveyapa 2025
 https://pub-c0a0ef4afed74d31b975ce54eb2bd4ad.r2.dev/Loveyapa.2025.4K-2160p.SDR.JHS.WEB-DL.Hindi.DDPA5.1.HEVC.x265-HDHub4u.Ms.mkv
 
-#EXTINF:-1 tvg-id="id2" tvg-name="Addicted S01E01" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Addicted",Addicted S01E01
-https://example.com/Addicted.S01E01.mkv
-#EXTINF:-1 tvg-id="id3" tvg-name="Addicted S01E02" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Addicted",Addicted S01E02
+#EXTINF:-1 tvg-id="id2" tvg-name="Squid Game S01E01" tvg-logo="https://image.tmdb.org/t/p/original/agxlRm9l50czjWPNW5Q1esUMdOb.jpg" group-title="Squid Game",Squid Game S03E01
+https://worker-shiny-mountain-0b80.xalada8948.workers.dev/b44aea172be742e1dae967457c577608947ccd38c234b8b6d36e3459903da05eeaac70ee051fd12fd13544b594400c5a929136514c669f8f4570b4b5986b5df57fc0e33539e91f6d9302373d07722f77710b19504ed880f5ffa794c3567dd96a328f3768384dca5d0454f4c1841d8f60adbed019ad552d992b89b30e31e422e83f778f888ab7fdc8688151076cfdc59859f9f80e1343cff4e72c0fbe4d345bac1ada1a6e99bee2f27fe8a64f6f4f3325::a5b6dbb5fa4296baf8451dc363ed35e0/Squid%20Game%20S03E01%202160p%20NF%20WEBDL%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20%20EnglishKorean%20DDP%205.1]%20x265%20(HHWEBUHDMovies).mkv
+#EXTINF:-1 tvg-id="id3" tvg-name="Squid Game S01E02" tvg-logo="https://image.tmdb.org/t/p/original/agxlRm9l50czjWPNW5Q1esUMdOb.jpg" group-title="Squid Game",Squid Game S03E02
 https://example.com/Addicted.S01E02.mkv
-#EXTINF:-1 tvg-id="id4" tvg-name="Addicted S01E03" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Addicted",Addicted S01E03
+#EXTINF:-1 tvg-id="id4" tvg-name="Squid Game S01E03" tvg-logo="https://image.tmdb.org/t/p/original/agxlRm9l50czjWPNW5Q1esUMdOb.jpg" group-title="Squid Game",Squid Game S03E03
 https://example.com/Addicted.S01E03.mkv
-#EXTINF:-1 tvg-id="id5" tvg-name="Addicted S01E04" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Addicted",Addicted S01E04
+#EXTINF:-1 tvg-id="id5" tvg-name="Squid Game S01E04" tvg-logo="https://image.tmdb.org/t/p/original/agxlRm9l50czjWPNW5Q1esUMdOb.jpg" group-title="Squid Game",Squid Game S03E04
 https://example.com/Addicted.S01E04.mkv
-#EXTINF:-1 tvg-id="id6" tvg-name="Addicted S01E05" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Addicted",Addicted S01E05
+#EXTINF:-1 tvg-id="id6" tvg-name="Squid Game S01E05" tvg-logo="https://image.tmdb.org/t/p/original/agxlRm9l50czjWPNW5Q1esUMdOb.jpg" group-title="Squid Game",Squid Game S03E05
 https://example.com/Addicted.S01E05.mkv
-#EXTINF:-1 tvg-id="id7" tvg-name="Addicted S01E06" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Addicted",Addicted S01E06
+#EXTINF:-1 tvg-id="id7" tvg-name="Squid Game S01E06" tvg-logo="https://image.tmdb.org/t/p/original/agxlRm9l50czjWPNW5Q1esUMdOb.jpg" group-title="Squid Game",Squid Game S03E06
 https://example.com/Addicted.S01E06.mkv
 
 #EXTINF:-1 tvg-id="id8" tvg-name="Sikandar" tvg-logo="https://image.tmdb.org/t/p/w342/ohHiDAwaOo6R1ovMgmUhrBuvknU.jpg" group-title="Sikandar",Sikandar 2025
